@@ -1,8 +1,11 @@
+#Command Helper
 
-# All the commands run in mac and assumes you have installed all packages. Make sure you install them previously, and use the commands corresponding to your environment (Window / Linux)
+## All the commands run in mac and assumes you have installed all packages. Make sure you install them previously, and use the commands corresponding to your environment (Window / Linux)
 
 ## (optional) create python virtual environment
-```python3 -m venv env```
+```
+python3 -m venv env
+```
 
 ## install django
 ```python -m pip install Django```
